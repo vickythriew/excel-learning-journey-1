@@ -1,1 +1,20 @@
+Date	Product	Category	Quantity	Price	TOTAL
+01-Jun	Keyboard	Electronics	2	 250.000 	 500.000 
+01-Jun	Mouse	Electronics	3	 100.000 	 300.000 
+02-Jun	Notebook	Stationery	5	 20.000 	 100.000 
+02-Jun	Pen	Stationery	10	 5.000 	 50.000 
+03-Jun	Keyboard	Electronics	1	 250.000 	 250.000 
+03-Jun	Notebook	Stationery	8	 20.000 	 160.000 
+04-Jun	Mouse	Electronics	2	 100.000 	 200.000 
+04-Jun	Pen	Stationery	12	 5.000 	 60.000 
+				SUM	 1.620.000 
+				AVERAGE	 5 
+				COUNTIF 'ELECTRONICS'	4
+				COUNTIF 'Stationery'	4
+				SUMIF 'Electronics	1250000
+				SUMIF 'Stationery'	370000
+				Which product generated the highest revenue?	
+				Which category sold the most units?	
+				Which category generated the most revenue?	
+				If you were the manager, what would you focus on selling?	
 
