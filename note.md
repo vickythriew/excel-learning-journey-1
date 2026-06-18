@@ -14,3 +14,7 @@ Electronics generated higher revenue despite fewer transactions.
 # Day 2
 Learned :
 - Pivot table
+
+# Day 3 
+Learned :
+- XLOOKUP concept
