@@ -29,3 +29,17 @@ Learned :
 - HR Pivot Analysis
 - Basic Turnover Analytics
 
+# Day 7
+
+✅ Headcount Analysis
+
+✅ Net Growth Analysis
+
+✅ Turnover KPI
+
+✅ Business Interpretation
+
+✅ HR Analytics Thinking
+
+❌ One turnover formula missed
+
