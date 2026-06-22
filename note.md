@@ -29,7 +29,7 @@ Learned :
 - HR Pivot Analysis
 - Basic Turnover Analytics
 
-# Day 7
+# Day 5
 
 ✅ Headcount Analysis
 
