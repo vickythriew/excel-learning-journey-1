@@ -23,7 +23,7 @@ Current Learning:
 ##########################################################
 
 # Day 1
-
+(sales_data-day1.xlsx)
 Learned:
 - SUM
 - AVERAGE
@@ -37,17 +37,20 @@ Electronics generated higher revenue despite fewer transactions.
 
 # Day 2
 Learned :
+use the same excel file as day 1
 - Pivot table
 
 ##########################################################
 
 # Day 3 
+(Employee-data-XLOOKUP.xlsx)
 Learned :
 - XLOOKUP concept
 
 ##########################################################
 
 # Day 4
+(check_duplicate-remove_duplicate-trim_func.xlsx)
 Learned :
 - Data Cleaning
 - Duplicate Detection
@@ -60,7 +63,7 @@ Learned :
 ##########################################################
 
 # Day 5
-
+(Turnover rate-Day5.xlsx)
 ✅ Headcount Analysis
 
 ✅ Net Growth Analysis
@@ -76,7 +79,7 @@ Learned :
 ##########################################################
 
 # Day 6
-
+(overtime data for chart and analyst.xlsx)
 Topics Learned
 - Bar Chart creation in Excel
 - Pie Chart creation in Excel
