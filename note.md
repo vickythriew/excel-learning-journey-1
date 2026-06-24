@@ -1,5 +1,27 @@
 # excel-learning-journey-1
 starting learning excel for data analyst
+
+Goal:
+Transition from HR Reporting & PeopleSoft Developer
+to Data Analyst / HR Data Analyst.
+
+Background:
+- SQL
+- Oracle
+- PeopleSoft
+- SQR Reporting
+- HR Analytics
+
+Current Learning:
+- Excel
+- Data Analysis
+- Dashboard Design
+- SQL Refresh
+- Power BI (future)
+- Python & Streamlit (future)
+
+##########################################################
+
 # Day 1
 
 Learned:
@@ -11,13 +33,19 @@ Learned:
 Insight:
 Electronics generated higher revenue despite fewer transactions.
 
+##########################################################
+
 # Day 2
 Learned :
 - Pivot table
 
+##########################################################
+
 # Day 3 
 Learned :
 - XLOOKUP concept
+
+##########################################################
 
 # Day 4
 Learned :
@@ -28,6 +56,8 @@ Learned :
 - UPPER
 - HR Pivot Analysis
 - Basic Turnover Analytics
+
+##########################################################
 
 # Day 5
 
@@ -43,3 +73,45 @@ Learned :
 
 ❌ One turnover formula missed
 
+##########################################################
+
+# Day 6
+
+Topics Learned
+- Bar Chart creation in Excel
+- Pie Chart creation in Excel
+- KPI calculation
+- Dashboard thinking
+- Business analysis from HR data
+- Overtime analysis
+
+Key Metrics
+Total Overtime Hours: 1200
+Average Overtime Hours: 240
+Highest Overtime Department: Production
+Lowest Overtime Department: HR
+Insights
+Production and Warehouse contribute
+66.7% of total overtime hours.
+
+Overtime is concentrated in a few departments
+rather than evenly distributed across the company.
+Business Questions Identified
+- Is production volume increasing?
+- Is the current workforce sufficient?
+- Should the company hire more employees?
+- Is overtime more cost-effective than hiring?
+- What is the age profile of employees?
+- Are there health and safety concerns?
+- What are the future business forecasts?
+Analyst Conclusion
+High overtime does not automatically mean
+the company should hire new employees.
+
+A proper decision requires additional analysis
+including production volume, workforce capacity,
+employee demographics, safety indicators,
+and future business demand forecasts.
+
+##########################################################
+  
