@@ -124,11 +124,11 @@ Trend Analysis and Root Cause Analysis
 
 Topics:
 
-Attendance Trend Analysis
-Month-over-Month Comparison
-KPI Monitoring
-Root Cause Analysis
-HR Analytics Investigation Framework
-Business Recommendation Process
+- Attendance Trend Analysis
+- Month-over-Month Comparison
+- KPI Monitoring
+- Root Cause Analysis
+- HR Analytics Investigation Framework
+- Business Recommendation Process
 
 ##########################################################
