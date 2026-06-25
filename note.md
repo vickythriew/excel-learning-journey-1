@@ -118,7 +118,7 @@ and future business demand forecasts.
 
 ##########################################################
   
-# Day 6
+# Day 7
 Trend Analysis and Root Cause Analysis
 (Attendance analyst.xlsx)
 
