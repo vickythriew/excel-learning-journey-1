@@ -118,3 +118,17 @@ and future business demand forecasts.
 
 ##########################################################
   
+# Day 6
+Trend Analysis and Root Cause Analysis
+(Attendance analyst.xlsx)
+
+Topics:
+
+Attendance Trend Analysis
+Month-over-Month Comparison
+KPI Monitoring
+Root Cause Analysis
+HR Analytics Investigation Framework
+Business Recommendation Process
+
+##########################################################
