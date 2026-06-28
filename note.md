@@ -1,134 +1,41 @@
-# excel-learning-journey-1
-starting learning excel for data analyst
+# Excel Learning Journey
 
-Goal:
-Transition from HR Reporting & PeopleSoft Developer
-to Data Analyst / HR Data Analyst.
+## About This Repository
 
-Background:
-- SQL
-- Oracle
-- PeopleSoft
-- SQR Reporting
-- HR Analytics
+This repository documents my transition from **HR Reporting Developer** to **HR Data Analyst**.
 
-Current Learning:
-- Excel
-- Data Analysis
-- Dashboard Design
-- SQL Refresh
-- Power BI (future)
-- Python & Streamlit (future)
+For more than 10 years, I worked with Oracle SQL, PeopleSoft HRMS, Oracle EBS, and SQR Reporting to build HR operational and management reports.
 
-##########################################################
+To modernize my skills, I started this learning journey to strengthen my knowledge of Excel, Data Analytics, Dashboard Design, and Business Intelligence.
 
-# Day 1
-(sales_data-day1.xlsx)
-Learned:
-- SUM
-- AVERAGE
-- COUNTIF
-- SUMIF
+This repository contains daily exercises, mini projects, dashboards, and business analysis developed throughout my learning process.
 
-Insight:
-Electronics generated higher revenue despite fewer transactions.
+---
 
-##########################################################
+## Career Background
 
-# Day 2
-Learned :
-use the same excel file as day 1
-- Pivot table
+* Oracle SQL
+* Oracle Database
+* PeopleSoft HRMS
+* Oracle E-Business Suite (EBS)
+* SQR Reporting
+* HR Reporting
+* Workforce Analytics
 
-##########################################################
+---
 
-# Day 3 
-(Employee-data-XLOOKUP.xlsx)
-Learned :
-- XLOOKUP concept
+## Current Learning Roadmap
 
-##########################################################
+* Microsoft Excel
+* Data Analysis
+* Dashboard Design
+* SQL Refresh
+* Power BI *(Next Step)*
+* Python *(Future)*
+* Streamlit *(Future)*
 
-# Day 4
-(check_duplicate-remove_duplicate-trim_func.xlsx)
-Learned :
-- Data Cleaning
-- Duplicate Detection
-- Remove Duplicates
-- TRIM
-- UPPER
-- HR Pivot Analysis
-- Basic Turnover Analytics
+---
 
-##########################################################
+## Learning Goal
 
-# Day 5
-(Turnover rate-Day5.xlsx)
-✅ Headcount Analysis
-
-✅ Net Growth Analysis
-
-✅ Turnover KPI
-
-✅ Business Interpretation
-
-✅ HR Analytics Thinking
-
-❌ One turnover formula missed
-
-##########################################################
-
-# Day 6
-(overtime data for chart and analyst.xlsx)
-Topics Learned
-- Bar Chart creation in Excel
-- Pie Chart creation in Excel
-- KPI calculation
-- Dashboard thinking
-- Business analysis from HR data
-- Overtime analysis
-
-Key Metrics
-Total Overtime Hours: 1200
-Average Overtime Hours: 240
-Highest Overtime Department: Production
-Lowest Overtime Department: HR
-Insights
-Production and Warehouse contribute
-66.7% of total overtime hours.
-
-Overtime is concentrated in a few departments
-rather than evenly distributed across the company.
-Business Questions Identified
-- Is production volume increasing?
-- Is the current workforce sufficient?
-- Should the company hire more employees?
-- Is overtime more cost-effective than hiring?
-- What is the age profile of employees?
-- Are there health and safety concerns?
-- What are the future business forecasts?
-Analyst Conclusion
-High overtime does not automatically mean
-the company should hire new employees.
-
-A proper decision requires additional analysis
-including production volume, workforce capacity,
-employee demographics, safety indicators,
-and future business demand forecasts.
-
-##########################################################
-  
-# Day 7
-Trend Analysis and Root Cause Analysis
-(Attendance analyst.xlsx)
-
-Topics:
-
-- Attendance Trend Analysis
-- Month-over-Month Comparison
-- KPI Monitoring
-- Root Cause Analysis
-- HR Analytics Investigation Framework
-- Business Recommendation Process
-
-##########################################################
+Become an HR Data Analyst by combining real-world HR reporting experience with modern data analytics tools.
