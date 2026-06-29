@@ -137,3 +137,90 @@ Topics:
 
 Create dashboard (mini project)
 it's different repo, fine on my repo Dashboard_mini_project_data_employee
+
+# Day 9
+
+Pivot table
+
+# Day 10 — HR Dashboard & Business Case Analysis
+
+**Files**
+
+* HR_Data_Analysis_Mini_Case_Study_DAY10.xlsx
+* HR_Data_Analysis_Mini_Case_Study_DAY10.pdf
+
+## Topics Covered
+
+* KPI Dashboard Design
+* Pivot Table Analysis
+* Data Visualization
+* HR Metrics
+* Risk Score Analysis
+* Workload Analysis
+* Executive Reporting
+* Business Case Analysis
+
+## Key Performance Indicators (KPIs)
+
+* Total Employees: **275**
+* Average Attendance: **95.6%**
+* Total Overtime Hours: **920**
+* Total Resigned Employees: **15**
+* Average Salary: **9.4**
+
+## Dashboard Insights
+
+### Attendance
+
+* Production has the lowest attendance (91%).
+* Warehouse follows with 93%.
+* HR maintains the highest attendance at 99%.
+
+### Overtime
+
+* Production records the highest total overtime (420 hours).
+* Warehouse records the second highest overtime (300 hours).
+
+### Resignation Risk
+
+* Production has the highest resignation risk (6.67%).
+* Warehouse is close behind at 6.25%.
+
+### Workload Analysis
+
+* Warehouse has the highest overtime workload per employee (3.75 hours).
+* Although Production has more total overtime, Warehouse employees experience a heavier workload individually.
+
+## Business Analysis
+
+Instead of making an immediate recommendation, I investigated relationships between attendance, overtime, salary, and resignation risk.
+
+The dashboard indicates that Production and Warehouse require further investigation. Low attendance combined with high overtime and relatively lower salaries may suggest operational or workforce challenges.
+
+Before making business recommendations, additional data should be collected, including:
+
+* Production volume
+* Raw material availability
+* Machine downtime
+* Shift schedules
+* Employee performance
+* Sick leave and annual leave
+* Recruitment status
+* Employee demographic data
+
+## Recommendation
+
+If production demand is stable, I would first optimize workforce scheduling by redesigning shift allocation before recommending additional hiring.
+
+This approach minimizes operational costs while improving workforce utilization.
+
+Only after validating operational data would I recommend increasing headcount or adjusting compensation policies.
+
+## Key Learning
+
+Today's lesson reinforced an important principle:
+
+**A dashboard should not only present numbers—it should support business decisions.**
+
+As a Data Analyst, my responsibility is not simply to report metrics, but to investigate the business context behind the data and provide evidence-based recommendations.
+
