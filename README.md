@@ -224,3 +224,7 @@ Today's lesson reinforced an important principle:
 
 As a Data Analyst, my responsibility is not simply to report metrics, but to investigate the business context behind the data and provide evidence-based recommendations.
 
+# Day 11 — HR Dashboard & Business Case Analysis 2
+
+See on my repo with title "HR Data analyst mini case day 11"
+
