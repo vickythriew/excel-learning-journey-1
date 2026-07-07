@@ -228,3 +228,7 @@ As a Data Analyst, my responsibility is not simply to report metrics, but to inv
 
 See on my repo with title "HR Data analyst mini case day 11"
 
+# Day 12 — HR Dashboard & Business Case Analysis 3
+
+See on my repo with title "HR Data analyst mini case day 12"
+
